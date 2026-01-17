@@ -2,12 +2,6 @@
 
 ⚡ **Software Engineer | ECE Graduate | Backend & Cloud Developer**
 
-## 📈 GitHub Summary
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanthg07)
-
-
-
 I’m a motivated software engineer with hands-on experience in the **fintech domain**, building and maintaining **scalable backend systems**. I enjoy working on secure, high-performance applications and continuously improving my skills through real-world experience.
 
 ---
@@ -49,5 +43,11 @@ I’m a motivated software engineer with hands-on experience in the **fintech do
 * 💼 [LinkedIn](https://www.linkedin.com/in/yashwanth-g20/)
 * 🌐 [Portfolio](https://yashwanth-portfolio-site.vercel.app/)
 * 📧 Email: [yashwanthg07@gmail.com](mailto:yashwanthg07@gmail.com)
+
+---
+
+## 📈 GitHub Summary
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanthg07)
 
 ⭐ *Thanks for visiting my profile!*
